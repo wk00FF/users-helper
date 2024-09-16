@@ -1,0 +1,21 @@
+{
+	"name":"wk00ff/users-helper",
+	"version": "1.000",
+	"description":"",
+	"autoload": {
+		"classmap": [
+			"src/UsersHelper.php"
+		],
+		"files": []
+	},
+	"authors":[
+		{
+			"name": "william smith",
+			"email": "wk00FF@gmail.com"
+		}
+	],
+	"require":{
+		"php": ">=7.4"
+	},
+	"minimum-stability": "dev"
+}
